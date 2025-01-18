@@ -1,0 +1,7 @@
+.referral-container {
+    text-align: right;
+}
+
+.referral-container > button {
+    margin-right: 40px;
+}

@@ -1,0 +1,24 @@
+.user-info {
+    text-align: center;
+    margin: 80px 5px
+}
+
+.user-info > div {
+    display: flex;
+    /* text-align: left; */
+    justify-content: space-evenly;
+}
+
+.user-info .info td {
+    padding: 10px;
+    border: 1px solid grey;;
+}
+
+.user-info .referral td {
+    padding: 15px;
+    border: 1px solid grey;
+}
+
+.purchase {
+    margin: 40px;
+}
