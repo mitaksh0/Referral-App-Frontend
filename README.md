@@ -71,8 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# Referral-App---Backend
->>>>>>> d772e1e9c6cd7dd9221b9aba9712afe47918a822
-=======
-# Referral-App-Frontend-
->>>>>>> efba6e29c50678b2631a39d55772643cddd8a039
+# Page routes:
+localhost:3000/login : to log in with signed up user
+localhost:3000/register : to sign up new user
+localhost:3000/home : user dashboard
